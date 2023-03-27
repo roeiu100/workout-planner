@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  height: 100vh;
+}
+.blank{
+  height: 16vw;
+}
+.footer{
+  margin-top: 30vw;
+  position: absolute;
+}

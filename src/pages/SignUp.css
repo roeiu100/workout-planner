@@ -1,0 +1,54 @@
+.signUp-form {
+  background-color: white;
+  border-radius: 8vh;
+  opacity: 0.85;
+  width: 40vw;
+  display: flex;
+  justify-content: center;
+}
+
+
+.button-sign:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.button-delete:hover {
+  background-color: red;
+  color: white;
+}
+
+input {
+  padding: 1rem;
+  margin: 0.1rem;
+}
+
+span {
+  color: red;
+}
+
+.data-cover {
+  background-color: darkseagreen;
+  height: 80vh;
+}
+
+.title {
+  font-family: serif;
+  font-style: italic;
+}
+
+.left {
+  text-align: left;
+}
+
+.noWhere {
+  font-size: 50px;
+  font-stretch: ultra-condensed;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: oblique;
+  color: royalblue;
+}
+
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-completed {
+  color: #4caf50 !important;
+}
